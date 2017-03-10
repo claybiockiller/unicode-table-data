@@ -17,7 +17,7 @@ arabic-supplement : 阿拉伯文补充
 thaana          : 它拿字母
 nko             : 西非书面语言
 samaritan       : 撒玛利亚字母
-mandaic         : Mandaic
+mandaic         : 曼达文
 arabic-extended-a : 阿拉伯语扩展
 devanagari      : 天城文
 bengali         : 孟加拉文
